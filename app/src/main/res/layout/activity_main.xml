@@ -26,4 +26,25 @@
         android:layout_marginStart="20dp"
         android:layout_marginTop="143dp"
         android:text="Mostrar Descargas" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="218dp"
+        android:text="Abrir Cámara" />
+
+    <ImageView
+        android:id="@+id/imageView"
+        android:layout_width="221dp"
+        android:layout_height="207dp"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginStart="93dp"
+        android:layout_marginBottom="96dp"
+        tools:srcCompat="@tools:sample/avatars" />
 </RelativeLayout>
